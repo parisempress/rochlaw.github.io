@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-include-cache
   - gemfile
+  
 sass:
-  sass_dir: _sass
-  style: compressed
+  sass_dir: assets/css
